@@ -150,6 +150,6 @@ Solutions
 * [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013)
 * [Numericals of a String](https://www.codewars.com/kata/5b4070144d7d8bbfe7000001)
 * [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
-* []()
+* [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 * []()
 * []()
