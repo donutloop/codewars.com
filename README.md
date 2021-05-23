@@ -62,7 +62,7 @@ Solutions
 * [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 * [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 * [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212)
-* []()
+* [Password Hashes](https://www.codewars.com/kata/54207f9677730acd490000d1)
 * []()
 * []()
 * []()
