@@ -21,3 +21,4 @@ Solutions
 * [Array element parity](https://www.codewars.com/kata/5a092d9e46d843b9db000064)
 * [Is he gonna survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
 * [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)
+* [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
