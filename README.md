@@ -93,7 +93,7 @@ Solutions
 * [Strong Number (Special Numbers Series #2)](https://www.codewars.com/kata/5a4d303f880385399b000001)
 * [Simple Fun #1: Seats in Theater](https://www.codewars.com/kata/588417e576933b0ec9000045)
 * [Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155)
-* []()
+* [Make the Deadfish swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9)
 * []()
 * []()
 * []()
