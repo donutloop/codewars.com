@@ -142,7 +142,7 @@ Solutions
 * [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 * [Count the Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
 * [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009)
-* []()
+* [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 * []()
 * []()
 * []()
