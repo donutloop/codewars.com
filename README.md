@@ -13,3 +13,4 @@ Solutions
 * [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
 * [Ease the StockBroker](https://www.codewars.com/kata/54de3257f565801d96001200)
 * [Help the bookseller !](https://www.codewars.com/kata/54dc6f5a224c26032800005c)
+* [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
