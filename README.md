@@ -144,7 +144,7 @@ Solutions
 * [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009)
 * [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 * [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
-* []()
+* [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 * []()
 * []()
 * []()
