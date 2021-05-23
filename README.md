@@ -120,7 +120,7 @@ Solutions
 * [Grasshopper - Messi goals function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
 * [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 * [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086)
-* []()
+* [Maximum Multiple](https://www.codewars.com/kata/5aba780a6a176b029800041c)
 * []()
 * []()
 * []()
