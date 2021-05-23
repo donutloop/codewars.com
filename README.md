@@ -65,7 +65,7 @@ Solutions
 * [Password Hashes](https://www.codewars.com/kata/54207f9677730acd490000d1)
 * [Alphabet symmetry](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0)
 * [All Inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e)
-* []()
+* [Extra Perfect Numbers (Special Numbers Series #7)](https://www.codewars.com/kata/5a662a02e626c54e87000123)
 * []()
 * []()
 * []()
