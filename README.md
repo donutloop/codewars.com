@@ -52,3 +52,4 @@ Solutions
 * [Simple Fun #10: Range Bit Counting](https://www.codewars.com/kata/58845748bd5733f1b300001f)
 * [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
 * [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
+* [Find the divisors!](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
