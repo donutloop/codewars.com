@@ -100,7 +100,7 @@ Solutions
 * [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 * [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 * [Functional Addition](https://www.codewars.com/kata/538835ae443aae6e03000547)
-* []()
+* [Function iteration](https://www.codewars.com/kata/54b679eaac3d54e6ca0008c9)
 * []()
 * []()
 * []()
