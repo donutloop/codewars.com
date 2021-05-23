@@ -95,7 +95,7 @@ Solutions
 * [Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155)
 * [Make the Deadfish swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9)
 * [Alphabetical Addition](https://www.codewars.com/kata/5d50e3914861a500121e1958)
-* []()
+* [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 * []()
 * []()
 * []()
