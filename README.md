@@ -26,3 +26,4 @@ Solutions
 * [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
 * [Even odd disparity](https://www.codewars.com/kata/59c62f1bdcc40560a2000060)
 * [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1)
+* [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
