@@ -45,3 +45,4 @@ Solutions
 * [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
 * [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 * [Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028)
+* [Powers of 3](https://www.codewars.com/kata/57be674b93687de78c0001d9)
