@@ -68,7 +68,7 @@ Solutions
 * [Extra Perfect Numbers (Special Numbers Series #7)](https://www.codewars.com/kata/5a662a02e626c54e87000123)
 * [Simple Fun #3: Late Ride](https://www.codewars.com/kata/588422ba4e8efb583d00007d)
 * [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056)
-* []()
+* [Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
 * []()
 * []()
 * []()
