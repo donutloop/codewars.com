@@ -5,4 +5,4 @@ def array_diff(a, b):
         if num in b:
             continue
         c.append(num)
-    return c  
+    return c
