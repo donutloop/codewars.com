@@ -118,7 +118,7 @@ Solutions
 * [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 * [Grasshopper - Terminal game move function](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2)
 * [Grasshopper - Messi goals function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
-* []()
+* [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 * []()
 * []()
 * []()
