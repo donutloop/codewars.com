@@ -153,4 +153,4 @@ Solutions
 * [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 * [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 * [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
-* []()
+* [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
