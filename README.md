@@ -58,3 +58,4 @@ Solutions
 * [Get Planet Name By ID](https://www.codewars.com/kata/515e188a311df01cba000003)
 * [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
 * [PHP in Action #1 - Introduction to Superglobals [Fundamentals]](https://www.codewars.com/kata/57e0a796f5ec16a11a001c93)
+* [Band name generator](https://www.codewars.com/kata/59727ff285281a44e3000011)
