@@ -39,3 +39,4 @@ Solutions
 * [Don't give me five!](https://www.codewars.com/kata/5813d19765d81c592200001a)
 * [Flatten and sort an array](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
 * [Push a hash/an object into array](https://www.codewars.com/kata/527b3cd0492b6b15250060af)
+* [Convert Hash To An Array](https://www.codewars.com/kata/59557b2a6e595316ab000046)
