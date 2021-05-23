@@ -86,7 +86,7 @@ Solutions
 * [Love vs friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016)
 * [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b)
 * [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
-* []()
+* [Will you survive the zombie onslaught?](https://www.codewars.com/kata/5deeb1cc0d5bc9000f70aa74)
 * []()
 * []()
 * []()
