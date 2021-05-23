@@ -32,3 +32,4 @@ Solutions
 * [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014)
 * [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 * [Ordered Count of Characters](https://www.codewars.com/kata/57a6633153ba33189e000074)
+* [Sum of all the multiples of 3 or 5](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
