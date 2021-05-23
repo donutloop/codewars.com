@@ -130,7 +130,7 @@ Solutions
 * [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078)
 * [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 * [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
-* []()
+* [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 * []()
 * []()
 * []()
