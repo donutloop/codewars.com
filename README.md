@@ -110,7 +110,7 @@ Solutions
 * [Sum of Cubes](https://www.codewars.com/kata/59a8570b570190d313000037)
 * [All unique](https://www.codewars.com/kata/553e8b195b853c6db4000048)
 * [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
-* []()
+* [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
 * []()
 * []()
 * []()
