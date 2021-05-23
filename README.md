@@ -135,7 +135,7 @@ Solutions
 * [Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/53369039d7ab3ac506000467)
 * [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 * [Are the numbers in order?](https://www.codewars.com/kata/56b7f2f3f18876033f000307)
-* []()
+* [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 * []()
 * []()
 * []()
