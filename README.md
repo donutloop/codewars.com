@@ -33,3 +33,4 @@ Solutions
 * [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 * [Ordered Count of Characters](https://www.codewars.com/kata/57a6633153ba33189e000074)
 * [Sum of all the multiples of 3 or 5](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
+* [Find the nth Digit of a Number](https://www.codewars.com/kata/577b9960df78c19bca00007e)
