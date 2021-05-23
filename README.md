@@ -104,7 +104,7 @@ Solutions
 * [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
 * [Expressions Matter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e)
 * [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
-* []()
+* [Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 * []()
 * []()
 * []()
