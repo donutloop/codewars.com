@@ -137,7 +137,7 @@ Solutions
 * [Are the numbers in order?](https://www.codewars.com/kata/56b7f2f3f18876033f000307)
 * [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 * [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
-* []()
+* [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 * []()
 * []()
 * []()
