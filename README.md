@@ -29,3 +29,4 @@ Solutions
 * [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
 * [Consecutive letters](https://www.codewars.com/kata/5ce6728c939bf80029988b57)
 * [101 Dalmatians - squash the bugs, not the dogs!](https://www.codewars.com/kata/56f6919a6b88de18ff000b36)
+* [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014)
