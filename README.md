@@ -67,7 +67,7 @@ Solutions
 * [All Inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e)
 * [Extra Perfect Numbers (Special Numbers Series #7)](https://www.codewars.com/kata/5a662a02e626c54e87000123)
 * [Simple Fun #3: Late Ride](https://www.codewars.com/kata/588422ba4e8efb583d00007d)
-* []()
+* [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056)
 * []()
 * []()
 * []()
