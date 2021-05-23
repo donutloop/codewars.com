@@ -69,7 +69,7 @@ Solutions
 * [Simple Fun #3: Late Ride](https://www.codewars.com/kata/588422ba4e8efb583d00007d)
 * [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056)
 * [Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
-* []()
+* [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5)
 * []()
 * []()
 * []()
