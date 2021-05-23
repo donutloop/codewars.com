@@ -8,4 +8,4 @@ def anagrams(word, words):
         if sorted_word_b == sorted_word_a:
             match.append(words[i])
 
-    return match       
+    return match

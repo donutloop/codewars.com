@@ -26,3 +26,4 @@ Solutions
 * [Length of missing array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611)
 * [Validate Credit Card Number](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2)
 * [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
+* [Even odd disparity](https://www.codewars.com/kata/59c62f1bdcc40560a2000060)
