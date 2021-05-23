@@ -74,7 +74,7 @@ Solutions
 * [Grasshopper - Terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d)
 * [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a)
 * [Grasshopper - Check for factor](https://www.codewars.com/kata/55cbc3586671f6aa070000fb)
-* []()
+* [Simple Fun #74: Growing Plant](https://www.codewars.com/kata/58941fec8afa3618c9000184)
 * []()
 * []()
 * []()
