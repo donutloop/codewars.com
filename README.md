@@ -128,7 +128,7 @@ Solutions
 * [Grasshopper - Grade book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
 * [Speed Control](https://www.codewars.com/kata/56484848ba95170a8000004d)
 * [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078)
-* []()
+* [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 * []()
 * []()
 * []()
