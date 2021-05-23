@@ -15,3 +15,4 @@ Solutions
 * [Help the bookseller !](https://www.codewars.com/kata/54dc6f5a224c26032800005c)
 * [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 * [Simple string characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058)
+* [Most valuable character](https://www.codewars.com/kata/5dd5128f16eced000e4c42ba)
