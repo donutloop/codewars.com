@@ -16,3 +16,4 @@ Solutions
 * [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 * [Simple string characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058)
 * [Most valuable character](https://www.codewars.com/kata/5dd5128f16eced000e4c42ba)
+* [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
