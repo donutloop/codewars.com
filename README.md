@@ -98,7 +98,7 @@ Solutions
 * [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 * [Highest Rank Number in an Array](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004)
 * [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
-* []()
+* [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 * []()
 * []()
 * []()
