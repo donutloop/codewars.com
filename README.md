@@ -147,5 +147,5 @@ Solutions
 * [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 * [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 * [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
-* []()
+* [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013)
 * []()
