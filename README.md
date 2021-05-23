@@ -89,7 +89,7 @@ Solutions
 * [Will you survive the zombie onslaught?](https://www.codewars.com/kata/5deeb1cc0d5bc9000f70aa74)
 * [Is it a palindrome?](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
 * [Exclusive "or" (xor) Logical Operator](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)
-* []()
+* [How Green Is My Valley?](https://www.codewars.com/kata/56e3cd1d93c3d940e50006a4)
 * []()
 * []()
 * []()
