@@ -143,7 +143,7 @@ Solutions
 * [Count the Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
 * [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009)
 * [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
-* []()
+* [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
 * []()
 * []()
 * []()
