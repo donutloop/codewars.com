@@ -107,7 +107,7 @@ Solutions
 * [Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 * [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018)
 * [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035)
-* []()
+* [Sum of Cubes](https://www.codewars.com/kata/59a8570b570190d313000037)
 * []()
 * []()
 * []()
