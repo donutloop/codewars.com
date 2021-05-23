@@ -145,7 +145,7 @@ Solutions
 * [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 * [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
 * [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
-* []()
+* [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 * []()
 * []()
 * []()
