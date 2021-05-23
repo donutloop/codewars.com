@@ -82,7 +82,7 @@ Solutions
 * [Watermelon](https://www.codewars.com/kata/55192f4ecd82ff826900089e)
 * [Scaling Squared Strings](https://www.codewars.com/kata/56ed20a2c4e5d69155000301)
 * [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001)
-* []()
+* [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a)
 * []()
 * []()
 * []()
