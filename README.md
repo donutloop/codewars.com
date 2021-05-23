@@ -17,3 +17,4 @@ Solutions
 * [Simple string characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058)
 * [Most valuable character](https://www.codewars.com/kata/5dd5128f16eced000e4c42ba)
 * [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
+* [Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7)
