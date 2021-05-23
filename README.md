@@ -123,7 +123,7 @@ Solutions
 * [Maximum Multiple](https://www.codewars.com/kata/5aba780a6a176b029800041c)
 * [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073)
-* []()
+* [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 * []()
 * []()
 * []()
