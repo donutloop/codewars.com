@@ -41,3 +41,4 @@ Solutions
 * [Push a hash/an object into array](https://www.codewars.com/kata/527b3cd0492b6b15250060af)
 * [Convert Hash To An Array](https://www.codewars.com/kata/59557b2a6e595316ab000046)
 * [Convert me to an Array of Numbers =)](https://www.codewars.com/kata/58d5becd3cdcbff3c1000065)
+* [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
