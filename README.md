@@ -64,7 +64,7 @@ Solutions
 * [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212)
 * [Password Hashes](https://www.codewars.com/kata/54207f9677730acd490000d1)
 * [Alphabet symmetry](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0)
-* []()
+* [All Inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e)
 * []()
 * []()
 * []()
