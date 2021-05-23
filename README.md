@@ -141,7 +141,7 @@ Solutions
 * [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 * [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 * [Count the Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
-* []()
+* [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009)
 * []()
 * []()
 * []()
