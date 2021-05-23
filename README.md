@@ -1,7 +1,5 @@
 # codewars.com
 
-Codewars.com solutions
-
 Solutions 
 
 * [Moves in squared strings (I)](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25)
@@ -27,3 +25,4 @@ Solutions
 * [Validate Credit Card Number](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2)
 * [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
 * [Even odd disparity](https://www.codewars.com/kata/59c62f1bdcc40560a2000060)
+* [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1)
