@@ -24,3 +24,4 @@ Solutions
 * [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
 * [Simple assembler interpreter](https://www.codewars.com/kata/58e24788e24ddee28e000053)
 * [Length of missing array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611)
+* [Validate Credit Card Number](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2)
