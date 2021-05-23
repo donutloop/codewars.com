@@ -63,7 +63,7 @@ Solutions
 * [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 * [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212)
 * [Password Hashes](https://www.codewars.com/kata/54207f9677730acd490000d1)
-* []()
+* [Alphabet symmetry](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0)
 * []()
 * []()
 * []()
