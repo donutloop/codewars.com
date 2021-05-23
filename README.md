@@ -56,3 +56,4 @@ Solutions
 * [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 * [Series of integers from m to n](https://www.codewars.com/kata/5841f680c5c9b092950001ae)
 * [Get Planet Name By ID](https://www.codewars.com/kata/515e188a311df01cba000003)
+* [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
