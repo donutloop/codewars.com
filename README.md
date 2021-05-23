@@ -44,3 +44,4 @@ Solutions
 * [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
 * [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
 * [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003)
+* [Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028)
