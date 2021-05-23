@@ -47,3 +47,4 @@ Solutions
 * [Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028)
 * [Powers of 3](https://www.codewars.com/kata/57be674b93687de78c0001d9)
 * [Fizz Buzz Cuckoo Clock](https://www.codewars.com/kata/58485a43d750d23bad0000e6)
+* [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765)
