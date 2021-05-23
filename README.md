@@ -101,7 +101,7 @@ Solutions
 * [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 * [Functional Addition](https://www.codewars.com/kata/538835ae443aae6e03000547)
 * [Function iteration](https://www.codewars.com/kata/54b679eaac3d54e6ca0008c9)
-* []()
+* [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
 * []()
 * []()
 * []()
