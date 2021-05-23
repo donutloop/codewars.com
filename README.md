@@ -106,7 +106,7 @@ Solutions
 * [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 * [Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 * [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018)
-* []()
+* [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035)
 * []()
 * []()
 * []()
