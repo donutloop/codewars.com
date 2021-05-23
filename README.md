@@ -36,3 +36,4 @@ Solutions
 * [Find the nth Digit of a Number](https://www.codewars.com/kata/577b9960df78c19bca00007e)
 * [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
 * [Simple Fun #152: Invite More Women?](https://www.codewars.com/kata/58acfe4ae0201e1708000075)
+* [Don't give me five!](https://www.codewars.com/kata/5813d19765d81c592200001a)
