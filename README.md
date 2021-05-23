@@ -111,7 +111,7 @@ Solutions
 * [All unique](https://www.codewars.com/kata/553e8b195b853c6db4000048)
 * [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 * [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
-* []()
+* [Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6)
 * []()
 * []()
 * []()
