@@ -84,7 +84,7 @@ Solutions
 * [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001)
 * [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a)
 * [Love vs friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016)
-* []()
+* [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b)
 * []()
 * []()
 * []()
