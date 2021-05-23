@@ -35,3 +35,4 @@ Solutions
 * [Sum of all the multiples of 3 or 5](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
 * [Find the nth Digit of a Number](https://www.codewars.com/kata/577b9960df78c19bca00007e)
 * [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
+* [Simple Fun #152: Invite More Women?](https://www.codewars.com/kata/58acfe4ae0201e1708000075)
