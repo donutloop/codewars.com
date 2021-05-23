@@ -48,3 +48,4 @@ Solutions
 * [Powers of 3](https://www.codewars.com/kata/57be674b93687de78c0001d9)
 * [Fizz Buzz Cuckoo Clock](https://www.codewars.com/kata/58485a43d750d23bad0000e6)
 * [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765)
+* [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c)
