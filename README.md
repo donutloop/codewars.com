@@ -54,3 +54,4 @@ Solutions
 * [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
 * [Find the divisors!](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
 * [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+* [Series of integers from m to n](https://www.codewars.com/kata/5841f680c5c9b092950001ae)

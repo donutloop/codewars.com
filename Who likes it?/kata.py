@@ -9,4 +9,3 @@ def likes(names):
         return "{}, {} and {} like this".format(names[0], names[1], names[2])
 
     return "{}, {} and {} others like this".format(names[0], names[1], len(names)-2)
-        
