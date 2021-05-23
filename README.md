@@ -138,7 +138,7 @@ Solutions
 * [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 * [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
 * [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
-* []()
+* [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 * []()
 * []()
 * []()
