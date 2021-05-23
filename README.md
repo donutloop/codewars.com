@@ -28,3 +28,4 @@ Solutions
 * [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1)
 * [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
 * [Consecutive letters](https://www.codewars.com/kata/5ce6728c939bf80029988b57)
+* [101 Dalmatians - squash the bugs, not the dogs!](https://www.codewars.com/kata/56f6919a6b88de18ff000b36)
