@@ -50,3 +50,4 @@ Solutions
 * [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765)
 * [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c)
 * [Simple Fun #10: Range Bit Counting](https://www.codewars.com/kata/58845748bd5733f1b300001f)
+* [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
