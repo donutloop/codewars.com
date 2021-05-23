@@ -12,3 +12,4 @@ Solutions
 * [Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0)
 * [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
 * [Ease the StockBroker](https://www.codewars.com/kata/54de3257f565801d96001200)
+* [Help the bookseller !](https://www.codewars.com/kata/54dc6f5a224c26032800005c)
