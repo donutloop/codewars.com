@@ -140,7 +140,7 @@ Solutions
 * [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 * [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 * [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
-* []()
+* [Count the Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
 * []()
 * []()
 * []()
