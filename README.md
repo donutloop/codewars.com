@@ -73,7 +73,7 @@ Solutions
 * [Count the Digit](https://www.codewars.com/kata/566fc12495810954b1000030)
 * [Grasshopper - Terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d)
 * [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a)
-* []()
+* [Grasshopper - Check for factor](https://www.codewars.com/kata/55cbc3586671f6aa070000fb)
 * []()
 * []()
 * []()
