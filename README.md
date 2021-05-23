@@ -113,7 +113,7 @@ Solutions
 * [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
 * [Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6)
 * [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095)
-* []()
+* [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035)
 * []()
 * []()
 * []()
