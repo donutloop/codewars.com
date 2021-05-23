@@ -31,3 +31,4 @@ Solutions
 * [101 Dalmatians - squash the bugs, not the dogs!](https://www.codewars.com/kata/56f6919a6b88de18ff000b36)
 * [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014)
 * [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+* [Ordered Count of Characters](https://www.codewars.com/kata/57a6633153ba33189e000074)
