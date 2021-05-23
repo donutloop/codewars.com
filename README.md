@@ -76,7 +76,7 @@ Solutions
 * [Grasshopper - Check for factor](https://www.codewars.com/kata/55cbc3586671f6aa070000fb)
 * [Simple Fun #74: Growing Plant](https://www.codewars.com/kata/58941fec8afa3618c9000184)
 * [To square(root) or not to square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)
-* []()
+* [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 * []()
 * []()
 * []()
