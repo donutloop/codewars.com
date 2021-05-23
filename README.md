@@ -83,7 +83,7 @@ Solutions
 * [Scaling Squared Strings](https://www.codewars.com/kata/56ed20a2c4e5d69155000301)
 * [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001)
 * [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a)
-* []()
+* [Love vs friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016)
 * []()
 * []()
 * []()
