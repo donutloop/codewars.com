@@ -125,7 +125,7 @@ Solutions
 * [Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073)
 * [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 * [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
-* []()
+* [Grasshopper - Grade book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
 * []()
 * []()
 * []()
