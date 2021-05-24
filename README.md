@@ -154,3 +154,4 @@ Solutions
 * [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 * [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 * [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
+* [Simple Fun #2: Circle of Numbers](https://www.codewars.com/kata/58841cb52a077503c4000015)
