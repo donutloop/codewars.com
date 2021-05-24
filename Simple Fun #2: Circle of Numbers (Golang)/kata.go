@@ -1,4 +1,4 @@
-package Simple_Fun__2__Circle_of_Numbers
+package Simple_Fun__2__Circle_of_Numbers__Golang_
 
 import "math"
 
