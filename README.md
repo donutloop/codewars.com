@@ -155,3 +155,5 @@ Solutions
 * [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 * [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
 * [Simple Fun #2: Circle of Numbers](https://www.codewars.com/kata/58841cb52a077503c4000015)
+* [Check if a triangle is an equable triangle!](https://www.codewars.com/kata/57d0089e05c186ccb600035e)
+* [Hungarian Vowel Harmony (easy)](https://www.codewars.com/kata/57fd696e26b06857eb0011e7)
