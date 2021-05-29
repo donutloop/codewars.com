@@ -157,3 +157,4 @@ Solutions
 * [Simple Fun #2: Circle of Numbers](https://www.codewars.com/kata/58841cb52a077503c4000015)
 * [Check if a triangle is an equable triangle!](https://www.codewars.com/kata/57d0089e05c186ccb600035e)
 * [Hungarian Vowel Harmony (easy)](https://www.codewars.com/kata/57fd696e26b06857eb0011e7)
+* [Breaking chocolate problem](https://www.codewars.com/kata/534ea96ebb17181947000ada)
