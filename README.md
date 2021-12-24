@@ -160,3 +160,4 @@ Solutions
 * [Breaking chocolate problem](https://www.codewars.com/kata/534ea96ebb17181947000ada)
 * [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
 * [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556)
+* [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
