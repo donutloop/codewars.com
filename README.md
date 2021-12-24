@@ -158,3 +158,4 @@ Solutions
 * [Check if a triangle is an equable triangle!](https://www.codewars.com/kata/57d0089e05c186ccb600035e)
 * [Hungarian Vowel Harmony (easy)](https://www.codewars.com/kata/57fd696e26b06857eb0011e7)
 * [Breaking chocolate problem](https://www.codewars.com/kata/534ea96ebb17181947000ada)
+* [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
