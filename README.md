@@ -161,3 +161,4 @@ Solutions
 * [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
 * [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556)
 * [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
+* [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
