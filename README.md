@@ -162,3 +162,4 @@ Solutions
 * [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556)
 * [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
 * [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
+* [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
