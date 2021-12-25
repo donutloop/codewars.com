@@ -164,3 +164,4 @@ Solutions
 * [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
 * [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
 * [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+* [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
