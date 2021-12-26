@@ -167,3 +167,4 @@ Solutions
 * [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
 * [Previous multiple of three](https://www.codewars.com/kata/61123a6f2446320021db987d)
 * [Frequency sequence](https://www.codewars.com/kata/585a033e3a36cdc50a00011c)
+* [Sum of integers in string](https://www.codewars.com/kata/598f76a44f613e0e0b000026)
