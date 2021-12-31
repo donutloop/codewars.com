@@ -169,3 +169,4 @@ Solutions
 * [Frequency sequence](https://www.codewars.com/kata/585a033e3a36cdc50a00011c)
 * [Sum of integers in string](https://www.codewars.com/kata/598f76a44f613e0e0b000026)
 * [Heron's formula](https://www.codewars.com/kata/57aa218e72292d98d500240f)
+* [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
