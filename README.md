@@ -171,3 +171,4 @@ Solutions
 * [Heron's formula](https://www.codewars.com/kata/57aa218e72292d98d500240f)
 * [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
 * [Over The Road](https://www.codewars.com/kata/5f0ed36164f2bc00283aed07)
+* [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
