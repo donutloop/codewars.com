@@ -173,3 +173,4 @@ Solutions
 * [Over The Road](https://www.codewars.com/kata/5f0ed36164f2bc00283aed07)
 * [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
 * [Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a)
+* [Compare within margin](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
