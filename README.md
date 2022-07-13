@@ -174,3 +174,4 @@ Solutions
 * [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
 * [Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a)
 * [Compare within margin](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
+* [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/go)
