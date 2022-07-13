@@ -176,3 +176,4 @@ Solutions
 * [Compare within margin](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
 * [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79)
 * [What is between?](https://www.codewars.com/kata/55ecd718f46fba02e5000029)
+* [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
