@@ -178,3 +178,4 @@ Solutions
 * [What is between?](https://www.codewars.com/kata/55ecd718f46fba02e5000029)
 * [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
 * [Race Ceremony](https://www.codewars.com/kata/62cecd4e5487c10028996e04)
+* [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390)
