@@ -13,35 +13,9 @@ public class DigPow {
         }
 
 
-        if (sum == oldNum) {
-            return 1;
-        } else if (sum < oldNum) {
-            return -1;
+        if (sum%n == 0) {
+            return sum/n;
         }
-
-        var digitCountSum = Math.log10(sum);
-        var digitCountDiff = (int) digitCountSum - digitCount;
-        var upper = Math.pow(10, digitCountDiff);
-        var upperNum = oldNum * upper;
-
-        var upK = (double) ((sum / upperNum) * (double) 100);
-        if (upK * oldNum == sum) {
-            return (long) upK;
-        }
-
-        var downK = upK;
-        do {
-            upK = upK * 10;
-            downK = downK / 10;
-
-            if (Math.ceil(upK) * oldNum == sum) {
-                return (long) Math.ceil(upK);
-            }
-            if (Math.ceil(downK) * oldNum == sum) {
-                return (long) Math.ceil(downK);
-            }
-
-        } while(upK * oldNum <= sum || downK * oldNum > sum);
 
 
         return -1;
